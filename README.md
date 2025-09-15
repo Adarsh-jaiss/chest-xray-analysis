@@ -7,7 +7,16 @@ This repository contains code and resources for analyzing chest X-ray images to 
 
 Demo Video : https://www.loom.com/share/0f9b12e5c1234c1eae47f7535b1e5d71?sid=bc8a49c7-469b-4b2e-8e31-b6d4b4445e30
 
+
+## Run using docker-compose
+
+```
+docker compose up -d
+```
+you will be able to access the frontend at http://localhost:3000 and backend at http://localhost:8007/
+
 # Frontend 
+
 - The frontend is built using React and provides a user-friendly interface for uploading chest X-ray images and viewing the analysis results.
 
 Running the Frontend:
