@@ -1,4 +1,4 @@
-# Alphagrid Chest X-Ray Analysis for Disease Detection and Heatmap Generation
+# Chest X-Ray Analysis for Disease Detection and Heatmap Generation
 
 This repository contains code and resources for analyzing chest X-ray images to detect diseases and generate heatmaps highlighting areas of interest. The project leverages deep learning techniques to classify chest X-rays and visualize the results.
 
